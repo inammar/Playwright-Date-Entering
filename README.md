@@ -57,15 +57,14 @@ Verify that a user can successfully select a valid date using the Date Picker 1 
 
 ## 📌 Postconditions
 
-* The selected date remains visible in the input field
+* The selected date remains visible in the input field.
 
 ## 🔍 Validation
 
-* Assertion is performed on the input field value to verify correct date selection
+* Assertion is performed on the input field value to verify correct date selection.
 
 ## 📝 Notes
 
-* Test is fully automated using Playwright with Java
-* Project is intended for learning and demonstrating QA automation fundamentals
+* Test is fully automated using Playwright with Java.
 
 
